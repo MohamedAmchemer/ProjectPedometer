@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "Pedometer"; ObjectID = "0BB-3L-orc"; */
+"0BB-3L-orc.text" = "Pedometer";
+
+/* Class = "UIButton"; normalTitle = "Audio Pause"; ObjectID = "1dH-rd-k4g"; */
+"1dH-rd-k4g.normalTitle" = "Audio Pause";
+
+/* Class = "UILabel"; text = "type..."; ObjectID = "2qS-Hv-CJo"; */
+"2qS-Hv-CJo.text" = "type...";
+
+/* Class = "UIBarButtonItem"; title = "Standard"; ObjectID = "38X-pR-lAY"; */
+"38X-pR-lAY.title" = "Standard";
+
+/* Class = "UIButton"; normalTitle = "Take a picture"; ObjectID = "DdK-IQ-cxx"; */
+"DdK-IQ-cxx.normalTitle" = "Take a picture";
+
+/* Class = "UITextField"; placeholder = "An annotation for this place"; ObjectID = "JYW-Aw-rdw"; */
+"JYW-Aw-rdw.placeholder" = "An annotation for this place";
+
+/* Class = "UIBarButtonItem"; title = "Hybrid"; ObjectID = "JiO-BN-kal"; */
+"JiO-BN-kal.title" = "Hybrid";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "JuV-f9-xp8"; */
+"JuV-f9-xp8.normalTitle" = "Start";
+
+/* Class = "UIBarButtonItem"; title = "Satellite"; ObjectID = "K7f-i0-ajF"; */
+"K7f-i0-ajF.title" = "Satellite";
+
+/* Class = "UILabel"; text = "Activity type:"; ObjectID = "Qbc-Vq-cyS"; */
+"Qbc-Vq-cyS.text" = "Activity type:";
+
+/* Class = "UIButton"; normalTitle = "Localisation"; ObjectID = "SzQ-1h-FDu"; */
+"SzQ-1h-FDu.normalTitle" = "Localisation";
+
+/* Class = "UIBarButtonItem"; title = "WIA"; ObjectID = "TVN-DL-dNK"; */
+"TVN-DL-dNK.title" = "WIA";
+
+/* Class = "UIButton"; normalTitle = "Audio Play "; ObjectID = "ZCO-1e-I0y"; */
+"ZCO-1e-I0y.normalTitle" = "Audio Play ";
+
+/* Class = "UILabel"; text = "Waiting for update..."; ObjectID = "e0m-ZY-lJW"; */
+"e0m-ZY-lJW.text" = "Waiting for update...";
+
+/* Class = "UIButton"; normalTitle = "Camera"; ObjectID = "g1a-4S-UOT"; */
+"g1a-4S-UOT.normalTitle" = "Camera";
+
+/* Class = "UILabel"; text = "Steps count:"; ObjectID = "osp-0g-Pzm"; */
+"osp-0g-Pzm.text" = "Steps count:";
+
+/* Class = "UIButton"; normalTitle = "Go back to the pedometer"; ObjectID = "osq-Og-gxO"; */
+"osq-Og-gxO.normalTitle" = "Go back to the pedometer";
+
+/* Class = "UIButton"; normalTitle = "Pedometer"; ObjectID = "yRG-UU-mn4"; */
+"yRG-UU-mn4.normalTitle" = "Pedometer";

@@ -1,0 +1,19 @@
+/* 
+  Internationalisation.strings
+  CoreMotionPost
+
+  Created by MOUSSAAB on 23/11/2019.
+  Copyright © 2019 kamwysoc. All rights reserved.
+*/
+/* UILabel */
+"Start" = "démarrer: ";
+"Localisation" = " Localisation: ";
+"Pedometer" = "Pédomètre: ";
+"Camera" = "Caméra: ";
+"Take a picture" = "Prenez une photo: ";
+"Go back to the pedometer" = "Revenez vers le pédomètre: ";
+"AudioPlay" = "Démarrez l'audio: ";
+"Audio Pause" = "Arrétez l'audio: ";
+"Activity type" = "Type d'activité: ";
+"Step count" = "Comptage des pas: ";
+"Not Available" = "Pas disponible: ";
